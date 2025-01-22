@@ -1,4 +1,4 @@
-@extends('auth.frontend')
+@extends('apa.frontend')
 
 @section('content')
 
